@@ -19,14 +19,14 @@
   - primitive types: 🙋 explained
   - reference types: 🙋 explained
   - flag: 🎓 known
-  - lexical scope: 🎓 known
+  - lexical scope: 👂 heard
   - code block: 🎓 known
   - conditions: 🎓 known
   - loops: 🙋 explained
   - assignment: 🎓 known
   - regular expression: 🎓 known
   - interface: 🎓 known
-  - contract: 🎓 known
+  - contract: 👂 heard
   - module: 🎓 known
   - call stack: 🎓 known
 - Functions
@@ -79,11 +79,11 @@
   - string parsing: 🎓 known
 - Process & style
   - compiler: 🎓 known
-  - transpiler: 🎓 known
+  - transpiler: 👂 heard
   - linter: 👂 heard
   - polyfill: 👂 heard
   - debugger: 🎓 known
-  - garbage collection: 🎓 known
+  - garbage collection: 👂 heard
   - refactoring: 🎓 known
   - code review: 🎓 known
   - antipatterns: 👂 heard
