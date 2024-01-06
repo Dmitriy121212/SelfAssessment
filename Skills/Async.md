@@ -51,7 +51,7 @@
   - Observable/Observer: 🎓 known
   - Readable: 🎓 known
   - Writable: 🎓 known
-  - Transform: 🎓 known
+  - Transform: 👂 heard
   - Async Pool: 🎓 known
   - Async Queue: 🎓 known
   - Async Collector: 🎓 known
@@ -62,9 +62,9 @@
   - Timers: 🎓 known
   - setImmediate: 🎓 known
   - nextTick: 🎓 known
-  - AbortController: 🎓 known
-  - AbortSignal: 🎓 known
-  - Promise unhandled rejection: 🎓 known
+  - AbortController: 👂 heard
+  - AbortSignal: 👂 heard
+  - Promise unhandled rejection: 👂 heard
   - Promise double resolve: 🎓 known
   - child_process: 🎓 known
   - worker_threads: 🎓 known
