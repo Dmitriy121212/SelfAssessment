@@ -85,7 +85,7 @@
   - RxJS library: 🎓 known
   - Async composition: 👂 heard
   - Promise.all: 🎓 known
-  - Promise.allSettled: 🎓 known
+  - Promise.allSettled: 👂 heard
   - Promise.race: 👂 heard
   - Promise.any: 👂 heard
   - Web Locks API: 👂 heard
