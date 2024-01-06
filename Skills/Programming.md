@@ -74,7 +74,7 @@
   - graph: 🎓 known
   - iterator: 🎓 known
   - mutable state: 👂 heard
-  - immutable state; 👂 heard
+  - immutable state: 👂 heard
   - serialization: 👂 heard
   - string parsing: 🎓 known
 - Process & style
